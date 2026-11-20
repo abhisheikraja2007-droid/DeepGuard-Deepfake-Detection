@@ -1,0 +1,53 @@
+# Deepfake Detection Platform - Python Dependencies
+# All versions pinned for reproducibility
+
+# Deep Learning
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+
+# ONNX Runtime (CPU inference)
+onnxruntime==1.16.3
+onnx==1.15.0
+
+# Computer Vision
+opencv-python==4.9.0.80
+Pillow==10.2.0
+scikit-image==0.22.0
+
+# Face Detection
+facenet-pytorch==2.5.3
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+
+# Explainability
+grad-cam==1.4.8
+captum==0.7.0
+
+# Backend API
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+websockets==12.0
+aiofiles==23.2.1
+
+# Data Processing
+numpy==1.26.3
+scipy==1.12.0
+pandas==2.1.4
+
+# Utilities
+tqdm==4.66.1
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+pytest-asyncio==0.23.3
+
+# Image/Video Processing
+imageio==2.33.1
+imageio-ffmpeg==0.4.9

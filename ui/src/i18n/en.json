@@ -1,0 +1,70 @@
+{
+    "title": "DeepGuard",
+    "subtitle": "AI-Powered Deepfake Detection",
+    "upload": {
+        "title": "Upload Video",
+        "dragDrop": "Drag and drop your video here",
+        "or": "or",
+        "browse": "Browse Files",
+        "formats": "Supports MP4, AVI, MOV, MKV",
+        "maxSize": "Max file size: 500MB"
+    },
+    "webcam": {
+        "title": "Live Detection",
+        "start": "Start Camera",
+        "stop": "Stop Camera",
+        "analyzing": "Analyzing..."
+    },
+    "analysis": {
+        "title": "Analysis Results",
+        "processing": "Processing",
+        "fake": "Likely Fake",
+        "real": "Likely Real",
+        "uncertain": "Uncertain",
+        "confidence": "Confidence",
+        "videoScore": "Video Score",
+        "audioScore": "Audio Score"
+    },
+    "risk": {
+        "title": "Risk Level",
+        "safe": "Safe",
+        "low": "Low Risk",
+        "medium": "Medium Risk",
+        "high": "High Risk",
+        "critical": "Critical"
+    },
+    "timeline": {
+        "title": "Timeline Analysis",
+        "suspicious": "Suspicious Frames",
+        "noIssues": "No issues detected"
+    },
+    "explain": {
+        "title": "Why We Detected This",
+        "simple": "Simple Explanation",
+        "detailed": "Technical Details"
+    },
+    "modes": {
+        "title": "Detection Mode",
+        "fast": "Fast",
+        "fastDesc": "60+ FPS, quick scan",
+        "balanced": "Balanced",
+        "balancedDesc": "Best accuracy/speed",
+        "accuracy": "Accuracy",
+        "accuracyDesc": "Highest precision"
+    },
+    "privacy": {
+        "title": "Privacy Notice",
+        "local": "100% Local Processing",
+        "noCloud": "No cloud uploads",
+        "autoDelete": "Files auto-deleted"
+    },
+    "ethics": {
+        "title": "Ethics & Usage",
+        "purpose": "This tool is designed for educational and safety purposes only.",
+        "misuse": "Misuse for harmful purposes is strictly prohibited."
+    },
+    "footer": {
+        "copyright": "DeepGuard - Protecting Truth in Media",
+        "version": "Version 1.0.0"
+    }
+}
